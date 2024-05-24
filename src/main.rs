@@ -8,6 +8,7 @@ fn main() {
  //     .expect("Failed to read line");
   
  // let flag: i32 = flag.trim().parse().expect("Please type a numer!");
+// this is a comment
  
   
   println!("Enter a temperature in Fehrenheit:"); 
